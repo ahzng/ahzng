@@ -1,4 +1,4 @@
-AE student at Georgia Tech 
+AE student at Georgia Tech
 Interested in machine learning, autonomous vehicles, and flight dynamics
 
 <!---
