@@ -1,5 +1,5 @@
-AE student at Georgia Tech
-	Interested in machine learning, autonomous vehicles, and flight dynamics
+- **AE at Georgia Tech**
+- **Interested in autonomous vehicles, machine learning and flight dynamics**
 
 <!---
 albertzheng1/albertzheng1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
