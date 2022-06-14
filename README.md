@@ -1,4 +1,5 @@
-I'm interested in machine learning, autonomous vehicles, and flight dynamics
+AE student at Georgia Tech
+Interested in machine learning, autonomous vehicles, and flight dynamics
 
 <!---
 albertzheng1/albertzheng1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
